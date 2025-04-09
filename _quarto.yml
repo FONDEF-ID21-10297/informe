@@ -7,7 +7,20 @@ project:
 book:
   title: "Informe ID21I10297"
   output-file: "reporte_general"
-  author: "Herrera A.; Muñoz M. & F. Zambrano"
+  author: 
+    - name: Abel Herrera
+      email: mauricio.herrera@umayor.cl
+      affiliations:
+        - name: Hemera Centro de Observación de la Tierra, UMayor
+    - name: Manuel Muñoz
+      email: munozrodriguez.manuel@gmail.com
+      affiliations: 
+        - name: Ministerio del Medio Ambiente, Chile.
+    - name: Francisco Zambrano
+      orcid: 0000-0001-6896-8534
+      email: francisco.zambrano@umayor.cl
+      affiliations:
+        - name: Hemera Centro de Observación de la Tierra, UMayor
   date: today
   page-footer:
     left: |
