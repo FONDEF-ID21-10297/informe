@@ -1,0 +1,67 @@
+project:
+  type: book
+  output-dir: docs
+  resources:
+    - static/**
+
+book:
+  title: "Informe ID21I10297"
+  output-file: "reporte_general"
+  author: "Herrera A.; Muñoz M. & F. Zambrano"
+  date: today
+  page-footer:
+    left: |
+      Informe de metodologías y resultados proyecto FONDEF ID21I10297.
+    right: |
+      Este libro fue creado con <a href="https://quarto.org/">Quarto</a>.
+  cover-image: cover.png
+  favicon: cover.png
+  # site-url: 
+  # repo-url: 
+  repo-branch: main
+  repo-actions: [edit, issue]
+  chapters:
+    - index.qmd
+    - 001_prefacio.qmd
+    - 002_intro.qmd
+    - part: 'Metodología'
+      chapters:
+        - 101_area_estudio.qmd
+        - 102_parametros_fisiologicos.qmd
+        - 103_parametros_produccion.qmd
+        - 104_modelo_potencial.qmd
+        - 105_plataforma.qmd
+    - part: 'Resultados'
+      chapters:
+        - 201_fisiologia.qmd
+        - 202_produccion.qmd
+        - 203_potencial.qmd
+        - 204_satori.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+filters:
+  - lightbox
+
+format:
+  html:
+    toc: true
+    toc-depth: 4
+    toc_expand: false
+    theme: cosmo
+    mermaid: 
+        theme: neutral
+  pdf:
+    documentclass: scrreprt
+
+engine: knitr
+
+execute:
+  echo: false
+  warning: false
+  message: false
+
+lang: es
+
+editor: visual
