@@ -34,7 +34,7 @@ Además, trabajaron como asistentes de investigación los siguientes profesional
 
 En el proyecto participaron las empresas [Garces Fruit](https://garcesfruit.com/), [ICASS](https://icass.cl/) y el [Liceo Agrícola El Carmen de San Fernando](https://www.liceoagricolaelcarmen.cl/).
 
-![](imgs/garces_logo.png){width=100}
+![](imgs/garces_logo.png){width=200}
 ![](imgs/liceo-agricola-el-carmen.png){width=100}
 ![](imgs/thumbnail_LogoIcass_FINAL.jpg){width=200}
 
