@@ -13,8 +13,8 @@ source('script/setup.R')
 ::: justify
 Reporte general del proyecto ID21I10297, financiado por la Agencia Nacional de Investigación y Desarrollo (ANID) por medio del proyecto FONDEF IDEA 2021.
 
-![](imgs/logo ANID digital.png){width=100 fig-align='center'}
-![](imgs/HEMERA_UM_color.png){width=350}
+![](imgs/logo ANID digital.png){width=80 fig-align='center'}
+![](imgs/HEMERA_UM_color.png){width=280}
 
 Este proyecto estuvo a cargo del director [Dr. Francisco Zambrano Bigiarini](https://francisco-zambrano.cl) de la [Universidad Mayor](https://www.umayor.cl).
 
