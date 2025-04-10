@@ -13,20 +13,32 @@ source('script/setup.R')
 ::: justify
 Reporte general del proyecto ID21I10297, financiado por la Agencia Nacional de Investigación y Desarrollo (ANID) por medio del proyecto FONDEF IDEA 2021.
 
-Este proyecto estuvo a cargo del director [Dr. Francisco Zambrano Bigiarini](https://francisco-zambrano.cl) de la Universidad Mayor.
+Este proyecto estuvo a cargo del director [Dr. Francisco Zambrano Bigiarini](https://francisco-zambrano.cl) de la [Universidad Mayor](https://www.umayor.cl).
 
 Investigadores que participaron en el proyecto:
 
--   Dr. Francisco Zambrano - Director - Centro Hemera UMayor
--   Dra. Andrea Miyasaka Almeyda - Directora Alterna - Centro CGB UMayor
+-   Dr. Francisco Zambrano - Director - [Centro Hemera UMayor](https://hemera.umayor.cl)
+-   Dra. Andrea Miyasaka Almeyda - Directora Alterna - [Centro CGB UMayor](https://cgb.umayor.cl)
 -   Dr. Felipe de La Hoz - Investigador - Externo
--   Paulina Vidal - Investigadora - Centro Hemera UMayor
--   Idania Briceño - Investigadora - Centro Hemera UMayor
+-   Paulina Vidal - Investigadora - [Centro Hemera UMayor](https://hemera.umayor.cl)
+-   Idania Briceño - Investigadora - [Centro Hemera UMayor](https://hemera.umayor.cl)
 
 Además, trabajaron como asistentes de investigación los siguientes profesionales:
 
 -   Jesica Garrido - Centro Hemera UMayor
 -   Abel Herrera - Centro Hemera UMayor
+
+# Empresas asociadas
+
+En el proyecto participaron las empresas [Garces Fruit](https://garcesfruit.com/), [ICASS](https://icass.cl/) y el [Liceo Agrícola El Carmen de San Fernando](https://www.liceoagricolaelcarmen.cl/).
+
+![](imgs/garces_logo.png){width=100}
+![](imgs/liceo-agricola-el-carmen.png){width=100}
+![](imgs/thumbnail_LogoIcass_FINAL.jpg){width=200}
+
+
+
+---
 
 Para revisar los procedimientos específicos empleados o analizar los resultados del proyecto durante la temporada 2022-2023 de manera independiente, se recomienda acceder al reporte fabricado por Muñoz M. en el siguiente [enlace](https://mherreradiaz.github.io/reporte_general/static/anexos/01_reporte_calidad_produccion.pdf){target="_blank"}.
 

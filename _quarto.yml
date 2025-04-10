@@ -23,7 +23,7 @@ book:
   date: today
   page-footer:
     left: |
-      SatOri | Proyecto FONDE IDEA I+Di ID21I10297.
+      SatOri | Proyecto FONDEF IDEA I+Di ID21I10297
     right: |
       Este informe fue creado con <a href="https://quarto.org/">Quarto</a>.
   cover-image: cover.png
