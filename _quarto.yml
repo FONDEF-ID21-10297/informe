@@ -5,8 +5,7 @@ project:
     - static/**
 
 book:
-  title: "Informe ID21I10297"
-  output-file: "reporte_general"
+  title: "Informe SatOri"
   author: 
     - name: Abel Herrera
       email: mauricio.herrera@umayor.cl
@@ -24,13 +23,13 @@ book:
   date: today
   page-footer:
     left: |
-      Informe de metodologías y resultados proyecto FONDEF ID21I10297.
+      SatOri | Proyecto FONDE IDEA I+Di ID21I10297.
     right: |
-      Este libro fue creado con <a href="https://quarto.org/">Quarto</a>.
+      Este informe fue creado con <a href="https://quarto.org/">Quarto</a>.
   cover-image: cover.png
   favicon: cover.png
-  # site-url: 
-  # repo-url: 
+  site-url: https://s4tori.cl/informe
+  repo-url: https://github.com/FONDEF-ID21-10297/informe
   repo-branch: main
   repo-actions: [edit, issue]
   chapters:

@@ -1,4 +1,4 @@
-# Parametros fisiológicos
+# Parámetros fisiológicos
 
 ```{r}
 source('script/setup.R')
